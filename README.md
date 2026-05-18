@@ -1,2 +1,2 @@
 # A04-knn07001
-Repository for individual A04 assignment
+Repository for individual A04 assignment. This assignment involves creating and analyzing a classification model on a response variable of Loan Status (Y/N) based on a set of predictor variables. The workflow starts by data investigation and cleaning in preparation for model fit. A training and test partition are created and the TPOT model fitting method is applied. The importance of predictors in the model are evaluated via permutation importance and partial dependence plots. 
